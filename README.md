@@ -91,8 +91,4 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Leyla-Villanueva/Leyla-Villanueva/output/snake.svg" alt="Snake animation" />
-
-###
